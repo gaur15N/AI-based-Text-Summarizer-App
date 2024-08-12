@@ -58,7 +58,7 @@ Submit your project!
 Share your project (optional)
 Feedback (optional)
 Provide optional feedback
-Author: @genie360s
+Author: @nehagaur
 
 Project Motivation
 
